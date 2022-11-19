@@ -1,0 +1,142 @@
+{
+	"items" : [
+		{
+			"name" : "Iron",
+			"fileName" : "item_iron.png",
+			"description" : "Used to make buildings. Can be produced in the factory",
+			"id" : 0
+		},
+		{
+			"name" : "Wood",
+			"fileName" : "item_wood.png",
+			"description" : "Used to make buildings. Can be produced in the factory",
+			"id" : 1
+		},
+		{
+			"name" : "Bricks",
+			"fileName" : "item_bricks.png",
+			"description" : "Used to make buildings. Can be produced in the factory",
+			"id" : 2
+		},
+		{
+			"name" : "Chemical Substances",
+			"fileName" : "item_substances.png",
+			"description" : "Used to make buildings. Can be produced in the factory",
+			"id" : 3
+		},
+		{
+			"name" : "Gold",
+			"fileName" : "item_gold.png",
+			"description" : "Used to make buildings. Can be produced in the factory",
+			"id" : 4
+		}
+	],
+	"images" : [
+		{
+			"name" : "Building",
+			"fileName" : "building.png",
+			"id" : 2,
+			"width" : 1,
+			"height" : 1
+		},
+		{
+			"name" : "Road NESW",
+			"fileName" : "road-nesw.png",
+			"id" : 3,
+			"width" : 1,
+			"height" : 1
+		},
+		{
+			"name" : "Road NE",
+			"fileName" : "road-ne.png",
+			"id" : 4,
+			"width" : 1,
+			"height" : 1
+		},
+		{
+			"name" : "Road ES",
+			"fileName" : "road-es.png",
+			"id" : 5,
+			"width" : 1,
+			"height" : 1
+		},
+		{
+			"name" : "Road SW",
+			"fileName" : "road-sw.png",
+			"id" : 6,
+			"width" : 1,
+			"height" : 1
+		},
+		{
+			"name" : "Road NW",
+			"fileName" : "road-nw.png",
+			"id" : 7,
+			"width" : 1,
+			"height" : 1
+		},
+		{
+			"name" : "Road NS",
+			"fileName" : "road-ns.png",
+			"id" : 8,
+			"width" : 1,
+			"height" : 1
+		},
+		{
+			"name" : "Road EW",
+			"fileName" : "road-ew.png",
+			"id" : 9,
+			"width" : 1,
+			"height" : 1
+		},
+		{
+			"name" : "Road NES",
+			"fileName" : "road-nes.png",
+			"id" : 10,
+			"width" : 1,
+			"height" : 1
+		},
+		{
+			"name" : "Road ESW",
+			"fileName" : "road-esw.png",
+			"id" : 11,
+			"width" : 1,
+			"height" : 1
+		},
+		{
+			"name" : "Road NSW",
+			"fileName" : "road-nsw.png",
+			"id" : 12,
+			"width" : 1,
+			"height" : 1
+		},
+		{
+			"name" : "Road NEW",
+			"fileName" : "road-new.png",
+			"id" : 13,
+			"width" : 1,
+			"height" : 1
+		},
+		{
+			"name" : "Parking",
+			"fileName" : "parking.png",
+			"id" : 14,
+			"width" : 3,
+			"height" : 2
+		},
+		{
+			"name" : "Trees",
+			"fileName" : "tree.png",
+			"id" : 15,
+			"width" : 1,
+			"height" : 1
+		},
+		{
+			"name" : "Factory",
+			"fileName" : "factory.png",
+			"id" : 16,
+			"width" : 2,
+			"height" : 2,
+			"openMenu" : true
+		},
+	]
+}
